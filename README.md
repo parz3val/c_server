@@ -10,6 +10,6 @@
 - [x] In file content Server
 
 ### To do 
-- [] Fix image server for the MacOS. 
-- [] Set up a differrent HTML formatter for the server. 
-- [] Add error handling and 404. 
+- [ ] Fix image server for the MacOS. 
+- [ ] Set up a differrent HTML formatter for the server. 
+- [ ] Add error handling and 404. 
